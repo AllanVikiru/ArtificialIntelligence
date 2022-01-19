@@ -6,6 +6,6 @@
 
 2. [Decision Trees](https://github.com/AllanVikiru/ArtificialIntelligence/tree/dst) 
 
-3. [Search Algorithms](https://github.com/AllanVikiru/Artificial Intelligence/tree/search)
+3. [Search Algorithms](https://github.com/AllanVikiru/ArtificialIntelligence/tree/search)
 
 #### Feel free to send in any queries and contributions. Cheers!
