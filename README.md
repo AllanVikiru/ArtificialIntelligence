@@ -1,11 +1,5 @@
-## Artificial Intelligence (August - November 2019)
+## Artificial Intelligence Concepts
 
-> Labwork:
-
-1. [Artificial Neural Networks](https://github.com/AllanVikiru/ArtificialIntelligence/tree/ann)
-
-2. [Decision Trees](https://github.com/AllanVikiru/ArtificialIntelligence/tree/dst) 
-
-3. [Search Algorithms](https://github.com/AllanVikiru/ArtificialIntelligence/tree/search)
+Material for learning concepts in Artificial Intelligence: Data Mining, ML etc. [ Major restructuring coming soon :) ]
 
 #### Feel free to send in any queries and contributions. Cheers!
